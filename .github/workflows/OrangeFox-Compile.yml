@@ -20,7 +20,7 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/mosya234/twrp-lenovo_TB350FU'
+        default: 'https://github.com/mosya234/ofox-device_lenovo_TB350FU'
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
